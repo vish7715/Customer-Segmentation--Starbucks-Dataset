@@ -72,6 +72,8 @@ Data cleaning and transformation has been done via Pandas , python library.
 1. What is the most viewed offers vs most completed offers ?
 
    Based on Data Analysis done, below are the findings -
+ 
+<img width="452" height="237" alt="image" src="https://github.com/images/Image 12-01-26 at 08.59.png"  />
 
    
 
