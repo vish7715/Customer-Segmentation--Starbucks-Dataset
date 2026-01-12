@@ -71,19 +71,23 @@ Data cleaning and transformation has been done via Pandas , python library.
 
 Below metrics were used for identifying customer segments -
 
-1. ## Frequency - the number of transactions a customer does over the month of offer validity.
-2. ## Average purchase Value - the amount of money spent by customer over that period.
-3. ## Completion Rate - How many offers were viewed and completed by customer in the campign window.
+1. ## Frequency
+   The number of transactions a customer does over the month of offer validity.
+3. ## Average purchase Value
+   The amount of money spent by customer over that period.
+5. ## Completion Rate
+   How many offers were viewed and completed by customer in the campign window.
 
 ## Data Insights 
 
 1. What are the most popular offer types ?
 
    Below are the findings-
+   
 <img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/images/Discount%20vs%20BOGO.png"/>
    
 
-2. What is the most viewed offers vs most completed offers ?
+3. What is the most viewed offers vs most completed offers ?
 
    Based on Data Analysis done, below are the findings -
  
