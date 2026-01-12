@@ -59,7 +59,21 @@ Dataset contains mainly 3 tables -
 | value | object |
 | time | int |
 
+## 🛠️ Tools & Technologies
+-Python (Pandas , Numpy , json)
+- ML (K means clustering )
 
+## Data Cleaning 
+
+Data cleaning and transformation has been done via Pandas , python library. 
+
+## Data Insights 
+
+1. What is the most viewed offers vs most completed offers ?
+
+   Based on Data Analysis done, below are the findings -
+
+   
 
 
 
