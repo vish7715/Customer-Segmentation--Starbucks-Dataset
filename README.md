@@ -69,11 +69,19 @@ Data cleaning and transformation has been done via Pandas , python library.
 
 ## Data Insights 
 
-1. What is the most viewed offers vs most completed offers ?
+1. What are the most popular offer types ?
+
+   Below are the findings-
+
+   
+
+3. What is the most viewed offers vs most completed offers ?
 
    Based on Data Analysis done, below are the findings -
  
-<img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/tree/main/images/Image 12-01-26 at 08.59.png"/>
+<img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/images/Image%2012-01-26%20at%2008.59.png"/>
+
+
 
    
 
