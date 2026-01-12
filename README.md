@@ -73,7 +73,7 @@ Data cleaning and transformation has been done via Pandas , python library.
 
    Based on Data Analysis done, below are the findings -
  
-<img width="452" height="237" alt="image" src="https://github.com/images/Image 12-01-26 at 08.59.png"  />
+<img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/tree/main/images/Image 12-01-26 at 08.59.png"/>
 
    
 
