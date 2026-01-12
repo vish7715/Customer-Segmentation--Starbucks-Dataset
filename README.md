@@ -67,19 +67,43 @@ Dataset contains mainly 3 tables -
 
 Data cleaning and transformation has been done via Pandas , python library. 
 
+## Key Metrics for segmentation
+
+Below metrics were used for identifying customer segments -
+
+1. ## Frequency - the number of transactions a customer does over the month of offer validity.
+2. ## Average purchase Value - the amount of money spent by customer over that period.
+3. ## Completion Rate - How many offers were viewed and completed by customer in the campign window.
+
 ## Data Insights 
 
 1. What are the most popular offer types ?
 
    Below are the findings-
-
+<img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/images/Discount%20vs%20BOGO.png.png"/>
    
 
-3. What is the most viewed offers vs most completed offers ?
+2. What is the most viewed offers vs most completed offers ?
 
    Based on Data Analysis done, below are the findings -
  
 <img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/images/Image%2012-01-26%20at%2008.59.png"/>
+
+3. Customer Segmentation
+
+   Using Unsupervised machine learning algorithm, K-means clustering and based on data analysis from customers and events table, customer segmentation was performed and customers were put into below clusters -
+
+Cluster 1 - Starbucks Favourites (Most Valuable) - Highest offer completion rate which implies that this customer cluster viewed and completed the most offers.Highly responsive to offers and also the highest Average purchase value(apv) spent the most amount of money.
+
+Cluster 2 - Regular Customers - They have highest frequency making the most number of transactions during the campaign month . Although, they have offer completion rate at 0.52 which is the average . They have low APV dusring the campaign window, which means campaigns dont affect their buying behaviour , they are regularly buying.
+
+## 📌Recommendations
+
+For Cluster 1 - Management should keep them as they are driving the highest sales during campign.
+
+For Cluster 2 - Company should expose high end products to them at low cost as they are regular customers or increase products baskets(if they are buying some product regularly , should give them related products too) with them to increase stickiness.
+
+
 
 
 
