@@ -80,7 +80,7 @@ Below metrics were used for identifying customer segments -
 1. What are the most popular offer types ?
 
    Below are the findings-
-<img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/images/Discount%20vs%20BOGO.png.png"/>
+<img width="452" height="237" alt="image" src="https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/images/Discount%20vs%20BOGO.png"/>
    
 
 2. What is the most viewed offers vs most completed offers ?
