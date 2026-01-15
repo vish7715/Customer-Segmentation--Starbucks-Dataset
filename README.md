@@ -67,6 +67,10 @@ Dataset contains mainly 3 tables -
 
 Data cleaning and transformation has been done via Pandas , python library. 
 
+Python script can be found here -
+
+** https://github.com/vish7715/Customer-Segmentation--Starbucks-Dataset/blob/main/Starbucks_campaign_data_.ipynb
+
 ## Key Metrics for segmentation
 
 Below metrics were used for identifying customer segments -
